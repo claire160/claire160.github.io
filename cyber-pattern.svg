@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="560" viewBox="0 0 560 560">
+  <rect width="560" height="560" fill="#090907"/>
+  <g fill="none" stroke="#d7b45a" stroke-width="1" opacity=".12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M0 95h90l34 34h66m-190 0h52l42 42v70h58m-152 75h80l47-47h85m-212 88h46l45 45h115m-156 105h117l29-29h81"/>
+    <path d="M560 45h-94l-42 42h-91m227 76h-57l-38 38v72h-95m190 55h-79l-34 34h-51m164 79h-53l-54 54h-91m198 35h-77"/>
+    <path d="M190 129v66l40 40h64m-167 34v-72m96 205v-72l52-52h71m-113 200v-45l42-42h67"/>
+  </g>
+  <g fill="#d7b45a" opacity=".22">
+    <circle cx="190" cy="129" r="3"/><circle cx="152" cy="241" r="3"/><circle cx="212" cy="269" r="3"/>
+    <circle cx="156" cy="402" r="3"/><circle cx="217" cy="478" r="3"/><circle cx="333" cy="87" r="3"/>
+    <circle cx="370" cy="273" r="3"/><circle cx="396" cy="362" r="3"/><circle cx="362" cy="495" r="3"/>
+  </g>
+  <g fill="#d7b45a" opacity=".09" font-family="monospace" font-size="10" letter-spacing="3">
+    <text x="20" y="58">0101 0010</text><text x="361" y="141">1010 0110</text>
+    <text x="23" y="456">0011 1010</text><text x="398" y="539">0100 1101</text>
+  </g>
+</svg>
